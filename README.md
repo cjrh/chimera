@@ -3,7 +3,7 @@
 
 # Chimera
 
-A Rust/Axum web server with Flask-style dynamic Python routing via PyO3.
+An Axum web server extension that adds optional Flask-style dynamic Python routing via PyO3.
 
 ## Quickstart
 
